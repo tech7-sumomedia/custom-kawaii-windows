@@ -60,9 +60,10 @@ body.avocado ::-webkit-scrollbar-thumb:hover,
 body.avocado .a-line1,
 body.avocado .a-line2,
 body.avocado #music-controls,
-body.avocado #share-controls{
+body.avocado #share-controls {
     background: #90a75b;
 }
+bg-\[\#9d652c\]
 {
     background-color: #9d652c;
 }
@@ -71,7 +72,7 @@ body.avocado .modal-content,
 body.avocado span.close{
     border: 5px solid #90a75b;
 }
-body.avocado . title {
+body.avocado .title {
     box-shadow: 7px 7px 0 #00000025;
 }
 body.avocado .menu hr {
